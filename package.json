@@ -4,7 +4,7 @@
   "description": "",
   "main": "scrapper.js",
   "scripts": {
-    "start": "nodemon scrapper.js"
+    "start": "node scrapper.js"
   },
   "keywords": [],
   "author": "",
